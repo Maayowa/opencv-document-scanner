@@ -1,1 +1,1 @@
-# opencv-document-scanner
+# OpenCV-document-scanner
